@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "EndlessSurvivalG.aternos",
+    "ip": "EndlessSurvivalG.aternos.me",
     "port": 60560,
     "version": "",
     "try-creative": false
