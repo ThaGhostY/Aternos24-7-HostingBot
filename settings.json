@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "7L_lifesteal_smp.aternos.me",
-    "port": 19122,
-    "version": "1.21.11"
+    "ip": "survivalendless.aternos.me",
+    "port": 52174,
+    "version": "1.21.4"
   },
   "position": {
     "enabled": true,
